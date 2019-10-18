@@ -1,0 +1,12 @@
+{
+	"units": [
+		{ "sname": "Trad2DViewFrame" },
+		{ "sname": "SymbiontsBFViewer" },
+		{ "sname": "SymbiontsBase" },
+		{ "sname": "KesCreaPlugin" },
+		{ "sname": "KesCreaBridge" },
+		{ "sname": "TraditionalGameMain" },
+    { "sname": "SymbiontsDict" },
+    { "sname": "StdMonoBChoosingUI" }
+	]
+}

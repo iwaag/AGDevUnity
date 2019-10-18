@@ -1,0 +1,9 @@
+{
+  "units": [
+    { "sname": "StdMonoBChoosingUI" },
+    { "sname": "Trad2DViewFrame" },
+    { "sname": "TraditionalGameMain" },
+    { "sname": "POVGameBFViewer" },
+    { "sname": "SymbiontsDict" }
+  ]
+}
